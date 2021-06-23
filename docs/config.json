@@ -10,6 +10,13 @@
       "children": [
         {
           "type": "link",
+          "slug": "getting-started/werwer",
+          "title": "werwer",
+          "id": "hv2gz00zo",
+          "children": []
+        },
+        {
+          "type": "link",
           "slug": "getting-started/dont-kno",
           "title": "Dont Kno",
           "id": "1l68m6pkz",
