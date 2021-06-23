@@ -7,7 +7,15 @@
       "title": "Tina Alpaca",
       "position": 0,
       "id": "1",
-      "children": []
+      "children": [
+        {
+          "type": "link",
+          "slug": "getting-started/dont-kno",
+          "title": "Dont Kno",
+          "id": "1l68m6pkz",
+          "children": []
+        }
+      ]
     },
     {
       "type": "link",
